@@ -15,26 +15,20 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <br/>
-      <br/>
-      <br/>
+    <td align="center">
+      <img src="assets/moducare.png" width="150"/>
     </td>
-    <td align="center" width="200">
-      <br/>
-      <br/>
-      <br/>
+    <td align="center">
+      <img src="assets/KICKCAP.png" width="150"/>
     </td>
-    <td align="center" width="200">
-      <br/>
-      <br/>
-      <br/>
+    <td align="center">
+      <img src="assets/FleaON.png" width="150"/>
     </td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MODUCARE">MODU CARE</a></td>
     <td align="center"><a href="https://github.com/KickCap-Project">KICKCAP</a></td>
-    <td align="center"><a href="https://github.com/say-hiseo/fleaOn">Flea:On</a></td>
+    <td align="center"><a href="https://github.com/say-hiseo/fleaOn">Flea:ON</a></td>
   </tr>
   <tr>
     <td align="center">24.10 ~ 24.11</td>

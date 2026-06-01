@@ -110,10 +110,15 @@
 
 ---
 
-![github-stats](https://stats.hyo.dev/api/github-stats?login=say-hiseo)
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=say-hiseo&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" width="500"/>
+  <img
+    src="https://stats.hyo.dev/api/github-stats?login=say-hiseo"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=say-hiseo&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9"
+    width="49%"
+  />
 </div>
 
 <!-- Footer -->

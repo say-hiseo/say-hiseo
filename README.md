@@ -110,10 +110,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=say-hiseo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=say-hiseo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-</div>
+![github-stats](https://stats.hyo.dev/api/github-stats?login=say-hiseo)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=say-hiseo&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" width="500"/>

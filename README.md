@@ -16,6 +16,9 @@
 <table>
   <tr>
     <td align="center">
+      <img src="assets/fieldguide.png" width="150"/>
+    </td>
+    <td align="center">
       <img src="assets/moducare.png" width="150"/>
     </td>
     <td align="center">
@@ -26,21 +29,25 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/fieldguide-moveai/fieldguide">Field Guide</a></td>
     <td align="center"><a href="https://github.com/MODUCARE">MODU CARE</a></td>
     <td align="center"><a href="https://github.com/KickCap-Project">KICKCAP</a></td>
     <td align="center"><a href="https://github.com/say-hiseo/fleaOn">Flea:ON</a></td>
   </tr>
   <tr>
+    <td align="center">26.08 ~ 진행 중</td>
     <td align="center">24.10 ~ 24.11</td>
     <td align="center">24.08 ~ 24.10</td>
     <td align="center">24.07 ~ 24.08</td>
   </tr>
   <tr>
+    <td align="center">FE, Infra, BE</td>
     <td align="center">Leader, BE</td>
     <td align="center">Leader, BE, AI</td>
     <td align="center">Leader, BE</td>
   </tr>
   <tr>
+    <td align="center">생성형 AI 기반 운송 현장 암묵지 디지털 자산화 서비스</td>
     <td align="center">두피 탈모 케어 서비스</td>
     <td align="center">킥보드 자동 단속 서비스</td>
     <td align="center">대용량 중고 라이브 커머스</td>
@@ -81,12 +88,18 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+### OS & Infra
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 ### SubStack
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### Collaboration & Tools

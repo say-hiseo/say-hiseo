@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/fieldguide.png" width="150"/>
+      <img src="assets/fieldguide.png" width="200"/>
     </td>
     <td align="center">
       <img src="assets/moducare.png" width="150"/>
@@ -47,7 +47,7 @@
     <td align="center">Leader, BE</td>
   </tr>
   <tr>
-    <td align="center">생성형 AI 기반 운송 현장 암묵지 디지털 자산화 서비스</td>
+    <td align="center">운송 현장 암묵지<br>디지털 자산화 서비스</td>
     <td align="center">두피 탈모 케어 서비스</td>
     <td align="center">킥보드 자동 단속 서비스</td>
     <td align="center">대용량 중고 라이브 커머스</td>

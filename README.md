@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h3>👋 안녕하세요, 개발자 박희서입니다</h3>
+  <h3>👋 안녕하세요</h3>
   <p>소통을 통해 함께 성장하는 팀, 그리고 그 안에서 더 나은 서비스를 위해<br/>
   새로운 기술을 탐구하고 끊임없이 발전해나가는 개발자입니다.</p>
 </div><br/>
@@ -35,7 +35,7 @@
     <td align="center"><a href="https://github.com/say-hiseo/fleaOn">Flea:ON</a></td>
   </tr>
   <tr>
-    <td align="center">26.08 ~ 진행 중</td>
+    <td align="center">26.08 ~ </td>
     <td align="center">24.10 ~ 24.11</td>
     <td align="center">24.08 ~ 24.10</td>
     <td align="center">24.07 ~ 24.08</td>
@@ -63,6 +63,7 @@
 - **2023.02.21** 대경권 SW 산학프로젝트 경진대회 우수상 — GPS 기반 익명 패션 SNS 프로젝트
 
 **📜 Certifications**
+- **2026.06.05** 데이터분석 준전문가 (ADsP) — 한국데이터산업진흥협회
 - **2026.04.18** Coding Specialist Professional 1급 (Java) — YBM IT
 - **2025.09.12** 정보처리기사 — 한국산업인력공단
 - **2025.03.28** 리눅스마스터 2급 — 한국정보통신진흥협회

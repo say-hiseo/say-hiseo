@@ -60,12 +60,12 @@
     </td>
     <td align="center">
       <a href="./md/modu-care.md">
-        <img src="https://img.shields.io/badge/My_Part-README-2EC4B6?style=for-the-badge&logo=readme&logoColor=white&labelColor=1E1E2E"/>
+        <img src="https://img.shields.io/badge/My_Part-README-C9A27E?style=for-the-badge&logo=readme&logoColor=white&labelColor=1E1E2E"/>
       </a>
     </td>
     <td align="center">
       <a href="./md/kickcap.md">
-        <img src="https://img.shields.io/badge/My_Part-README-FFB703?style=for-the-badge&logo=readme&logoColor=white&labelColor=1E1E2E"/>
+        <img src="https://img.shields.io/badge/My_Part-README-FFFFFF?style=for-the-badge&logo=readme&logoColor=white&labelColor=1E1E2E"/>
       </a>
     </td>
     <td align="center">
